@@ -1,2 +1,2 @@
 # akka-remoting
-akka-remoting example
+akka-remoting example in JAVA...
